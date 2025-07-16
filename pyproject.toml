@@ -24,3 +24,5 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://cntc.caltech.edu"
 
+[project.scripts]
+sldyexplore = "sldyexplore:maincli"
