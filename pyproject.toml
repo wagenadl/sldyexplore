@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sldyexplore"
+authors = [
+    {name = "Daniel Wagenaar", email = "daw@caltech.edu"},
+]
+description = "Basic viewer for Slideworks files"
+readme = "README.md"
+version = "0.1.0"
+license = "GPL-3.0-or-later"
+dependencies = [
+    "numpy",
+    "pyqt6",
+]
+requires-python = ">=3.12"
+classifiers = [ 
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage" = "https://cntc.caltech.edu"
+
