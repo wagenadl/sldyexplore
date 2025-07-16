@@ -7,7 +7,7 @@ name = "sldyexplore"
 authors = [
     {name = "Daniel Wagenaar", email = "daw@caltech.edu"},
 ]
-description = "Basic viewer for Slideworks files"
+description = "Basic viewer for Slidebook files"
 readme = "README.md"
 version = "0.1.0"
 license = "GPL-3.0-or-later"
